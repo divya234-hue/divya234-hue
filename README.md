@@ -87,22 +87,24 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
 ## 💻 LeetCode Journey
 
 <p align="center">
-  <a href="https://leetcode.com/u/divya_08/">
-    <img src="https://leetcard.jacoblin.cool/divya_08?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode statistics and activity" />
+  <a href="https://leetcode.com/u/diviii03/">
+    <img src="https://leetcard.jacoblin.cool/diviii03?theme=dark&font=Baloo&ext=heatmap" alt="Divya's LeetCode statistics" />
   </a>
 </p>
 
 <p align="center">
-  <b>113+ Problems Solved</b> · Practicing Data Structures & Algorithms
+  <img src="https://img.shields.io/badge/Problems%20Solved-171%2B-success?style=for-the-badge&logo=leetcode&logoColor=white" alt="171 problems solved" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/divya_08/">
-    <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
-  </a>
+  <b>90 Easy · 66 Medium · 15 Hard</b>
 </p>
 
----
+<p align="center">
+  <a href="https://leetcode.com/u/diviii03/">
+    <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode" />
+  </a>
+</p>
 
 ## 📚 Certifications
 
