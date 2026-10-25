@@ -11,10 +11,7 @@
     <img src="https://img.shields.io/badge/GitHub-divya234--hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/divya-bharti-46035b33b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Divya%20Bharti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/divya_08/">
-    <img src="https://img.shields.io/badge/LeetCode-113%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:db450293@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -31,7 +28,6 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
 - 🏫 **University:** Poornima University, Jaipur
 - 📅 **Expected Graduation:** 2028
 - 📈 **CGPA:** 8.5
-- 🧠 **Problem Solving:** 113+ LeetCode problems solved
 - 🤖 **Interests:** Machine Learning, Deep Learning, NLP, LLMs, and AI Agents
 - 🌱 **Currently Exploring:** RAG, LangChain, LangGraph, and Hugging Face Transformers
 - 🎯 **Goal:** Become an AI Engineer and contribute to meaningful open-source projects
@@ -71,6 +67,8 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
   <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,docker,git,github,vscode,jupyter" alt="Development tools" />
 </p>
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -83,28 +81,6 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
 </p>
 
 ---
-
-## 💻 LeetCode Journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/diviii03/">
-    <img src="https://leetcard.jacoblin.cool/diviii03?theme=dark&font=Baloo&ext=heatmap" alt="Divya's LeetCode statistics" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-171%2B-success?style=for-the-badge&logo=leetcode&logoColor=white" alt="171 problems solved" />
-</p>
-
-<p align="center">
-  <b>90 Easy · 66 Medium · 15 Hard</b>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/diviii03/">
-    <img src="https://img.shields.io/badge/Visit%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Visit LeetCode" />
-  </a>
-</p>
 
 ## 📚 Certifications
 
@@ -133,9 +109,6 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
   </a>
   <a href="https://www.linkedin.com/in/divya-bharti-46035b33b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/divya_08/">
-    <img src="https://img.shields.io/badge/LeetCode-Let's%20Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:db450293@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
