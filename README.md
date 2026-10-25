@@ -71,54 +71,6 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
   <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,docker,git,github,vscode,jupyter" alt="Development tools" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🌐 [Language Translator](https://github.com/divya234-hue/language-translator)
-
-A machine translation application exploring multilingual text translation with modern NLP models.
-
-**Tech Stack:** Python · FastAPI · Hugging Face Transformers · PyTorch · React · TypeScript
-
-### 📄 [AI Resume Analyzer](https://github.com/divya234-hue/Ai_resume_analyzer)
-
-An AI-focused project exploring resume analysis and automated evaluation workflows.
-
-**Focus:** AI · NLP · Resume Analysis
-
-### 🎬 [Movie Recommendation System](https://github.com/divya234-hue/movie_recomendation)
-
-A recommendation-system project focused on suggesting movies using data-driven techniques.
-
-**Focus:** Machine Learning · Recommendation Systems
-
-### 🌾 [Farm NLP Framework](https://github.com/divya234-hue/farm-nlp-framework)
-
-An NLP project exploring language-processing applications for the agriculture domain.
-
-**Focus:** Natural Language Processing · Applied AI
-
-### 🤖 [AI Agent](https://github.com/divya234-hue/ai-agent)
-
-An AI project exploring intelligent agents and automated task workflows.
-
-**Focus:** AI Agents · LLM Applications
-
-### 🛡️ [SheShield AI](https://github.com/divya234-hue/SheShield-AI)
-
-An AI-focused project exploring technology-assisted safety solutions.
-
-**Focus:** Artificial Intelligence · Applied Problem Solving
-
-<p align="center">
-  <a href="https://github.com/divya234-hue?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All%20Repositories-238636?style=for-the-badge&logo=github" alt="All repositories" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
