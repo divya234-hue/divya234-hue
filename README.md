@@ -80,16 +80,6 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
   <img src="https://streak-stats.demolab.com?user=divya234-hue&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
----
-
-## 📚 Certifications
-
-- 🐍 Python — GeeksforGeeks
-- 🔗 LangChain & LangGraph — IBM
-- ✨ Claude — Anthropic
-
----
-
 ## 🎯 Currently Learning & Building
 
 - 🔍 Retrieval-Augmented Generation (RAG)
