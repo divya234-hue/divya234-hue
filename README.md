@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+LLMs%2C+RAG+%26+AI+Agents;Developing+End-to-End+ML+Systems;Contributing+to+Open+Source" alt="Typing introduction" />
 </p>
-
 <p align="center">
   <a href="https://github.com/divya234-hue">
     <img src="https://img.shields.io/badge/GitHub-divya234--hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
