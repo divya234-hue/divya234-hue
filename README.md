@@ -8,13 +8,16 @@
 
 <p align="center">
   <a href="https://github.com/divya234-hue">
-    <img src="https://img.shields.io/badge/GitHub-divya234--hue-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-divya234--hue-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/divya-bharti-46035b33b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/diviii03/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:db450293@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -32,6 +35,7 @@ I enjoy developing end-to-end AI systems, from model training and evaluation to 
 - 📈 **CGPA:** 8.5/10
 - 🤖 **Focus:** Machine Learning, Deep Learning, NLP, Computer Vision and Generative AI
 - 🧠 **Currently Exploring:** RAG, LLMs, LangChain, LangGraph and AI Agents
+- 💻 **LeetCode:** [diviii03](https://leetcode.com/u/diviii03/)
 - 🌍 **Open Source:** Contributor to GaussX
 - 🎯 **Goal:** Building reliable, scalable and production-oriented AI applications.
 
@@ -119,34 +123,35 @@ I actively explore open-source projects, contribute code and improve my engineer
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,ts" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts" alt="Programming languages" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
 </p>
 
 ### 📊 Data Science & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML frameworks" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
-- Regression, Classification, Clustering
-- Random Forest, Decision Trees, KNN, SVM, XGBoost
-- Feature Engineering, Cross-Validation, Hyperparameter Tuning
-- Model Evaluation, Precision, Recall, F1-Score, ROC-AUC
+- Regression, Classification and Clustering
+- Random Forest, Decision Trees, KNN, SVM and XGBoost
+- Feature Engineering, Cross-Validation and Hyperparameter Tuning
+- Model Evaluation, Precision, Recall, F1-Score and ROC-AUC
 - CNN, RNN, LSTM, Transformers and Transfer Learning
+- NumPy, Pandas, Matplotlib and Seaborn
 
 ### 🧠 Generative AI, NLP & LLMs
 
 <p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-2D3748?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=for-the-badge" alt="AI Agents" />
 </p>
 
 - Large Language Models (LLMs)
@@ -160,11 +165,11 @@ I actively explore open-source projects, contribute code and improve my engineer
 ### ⚙️ Backend, Frontend & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,docker,git,github,vscode,jupyter" />
+  <img src="https://skillicons.dev/icons?i=fastapi,react,tailwind,docker,git,github,vscode,jupyter" alt="Development tools" />
 </p>
 
-- FastAPI, REST APIs, Pydantic
-- React, TypeScript, HTML, CSS
+- FastAPI, REST APIs and Pydantic
+- React, TypeScript, HTML and CSS
 - Pytest and Automated Testing
 - Docker and Git/GitHub
 - SQLite and Qdrant
@@ -174,12 +179,12 @@ I actively explore open-source projects, contribute code and improve my engineer
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divya234-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya234-hue&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divya234-hue&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya234-hue&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=divya234-hue&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=divya234-hue&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
@@ -207,13 +212,16 @@ I actively explore open-source projects, contribute code and improve my engineer
 
 <p align="center">
   <a href="https://github.com/divya234-hue">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/divya-bharti-46035b33b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/diviii03/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="mailto:db450293@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
