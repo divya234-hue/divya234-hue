@@ -26,7 +26,7 @@ I'm a B.Tech Artificial Intelligence & Data Science student at **Poornima Univer
 
 - 🎓 **Degree:** B.Tech in Artificial Intelligence & Data Science
 - 🏫 **University:** Poornima University, Jaipur
-- 📅 **Expected Graduation:** 2028
+- 📅 **Graduation:** 2028
 - 📈 **CGPA:** 8.5
 - 🤖 **Interests:** Machine Learning, Deep Learning, NLP, LLMs, and AI Agents
 - 🌱 **Currently Exploring:** RAG, LangChain, LangGraph, and Hugging Face Transformers
