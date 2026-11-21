@@ -1,7 +1,6 @@
 # Hey there! 👋 I'm Divya Bharti
 
 ### 🤖 Aspiring AI Engineer | Machine Learning | Generative AI | Open Source Contributor
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+LLMs%2C+RAG+%26+AI+Agents;Developing+End-to-End+ML+Systems;Contributing+to+Open+Source" alt="Typing introduction" />
 </p>
